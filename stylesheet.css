@@ -1,0 +1,145 @@
+.heading {
+  padding:7em 0;
+  height:110px;
+  background-image:url('http://i.imgur.com/4SDJr11.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-top: solid .5em #013F68;
+}
+
+#headcontent-wrapper {
+  max-width:30em;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+}
+
+#head-left {
+  margin-left:3em;
+  float:left;
+  align:center;
+  max-height:110px;
+}
+
+#mainintro {
+margin-top:-.15em;
+color: #FFFFFF;
+font-family:Georgia, serif;
+text-align:left;
+font-size: 2em;
+}
+
+#mainname {
+	margin-top:-.2em;
+  color: #DFCF9B;
+  text-align:left;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 3em;
+  letter-spacing: -0.02em;
+  text-shadow: 0px 4px 0px #013F68;
+}
+
+#head-right {
+  height:150px;
+  width:auto;
+  text-align:center;
+}
+
+#head-right img {
+  height:150px;
+  width:auto;
+  margin-top:-1.5em;
+}
+
+#head-menubox {
+  clear:both;
+  height:50px;
+  width:cover;
+  background-color:#013F68;
+  margin-top:1.5em;
+}
+
+.social, .head-menu {
+  max-width:40em;
+  margin-left:auto;
+  margin-right:auto;
+  list-style:none;
+  text-align:center;
+}
+
+.head-menu li {
+	color:#DFCF9B;
+  font-weight:bold;
+  display:inline-block;
+  margin-right: 4em;
+  margin-top:1em;
+}
+
+body {
+color: #222222;
+font-size: 1em;
+font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.body-sec {
+  position:relative;
+  max-width: 35em;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 3em;
+}
+
+.body-sec > p {
+font-weight: 300;
+letter-spacing: 0.05em;
+}
+
+h1 {
+	max-width: 19em;
+	margin-top: 1.5em; 
+}
+
+.accent {
+  color:#013F68;
+  font-weight:bold;
+  
+}
+
+.content-footer {
+	position:relative;
+	margin-top: 5em;
+  padding: 2em 0;
+  background-image:url('http://i.imgur.com/4SDJr11.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-top: solid .5em #013F68;
+}
+  
+#footer-text {
+	margin-left:1.5em;
+	text-align:center;
+	font-weight: 300;
+  color:white;
+  letter-spacing: 0.05em;
+}
+
+.social li {
+	color:#013F68;
+  font-weight:bold;
+  display: inline-block;
+  margin-right: 1em;
+}
+
+
+footer a {
+  text-decoration:none;
+  color:#DFCF9B;
+}
+
+.small-em {
+  font-style:italic;
+  font-size:13px;
+  
+}
